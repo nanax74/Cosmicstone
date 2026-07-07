@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -e
+
+cp "./cmake-build-debug/Source/Cosmicstone.rpl" "/mnt/c/Users/Nyan/AppData/Roaming/Cemu/mlc01/usr/title/00050000/10162b00/code/"

@@ -1,0 +1,3 @@
+[submodule "Gambit-Reverse"]
+	path = Gambit-Reverse
+	url = https://github.com/nanax74/Gambit-Reverse.git
